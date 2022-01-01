@@ -1,7 +1,11 @@
-# How to install Redis extension for PHP in Ubuntu.
+# How to install PHP Redis extension in Ubuntu UBUNTU_VERSION
 
 ```bash
-apt-get install php-redis
+apt install php-redis
 ```
 
-- php-redis - name of redis extension for PHP
+- `php-redis` - PHP Redis extension package to install
+- `apt install` - installs specified package on Ubuntu
+
+
+link_youtube: https://www.youtube.com/watch?v=Wc0Q-dfmFGY
